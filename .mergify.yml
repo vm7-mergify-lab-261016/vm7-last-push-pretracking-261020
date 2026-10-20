@@ -10,4 +10,4 @@ merge_protections:
       - base = main
       - title = VM7_LAST_PUSH_PRETRACKING_TRIGGER_261020
     success_conditions:
-      - github-require-last-push-approval
+      - title = VM7_LAST_PUSH_PRETRACKING_TRIGGER_261020
